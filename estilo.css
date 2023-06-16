@@ -49,6 +49,7 @@ body {
 
 .active {
   color: #fff;
+  text-decoration: none;
 }
 
 .texto {
