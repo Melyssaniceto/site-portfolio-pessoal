@@ -47,6 +47,10 @@ body {
   font-size: 110%;
 }
 
+.active {
+  color: #fff;
+}
+
 .texto {
   font-size: 150px; 
   text-align: center; 
